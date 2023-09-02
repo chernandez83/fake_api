@@ -3,7 +3,7 @@
     {"id": 1, "name": "Batman", "username": "batman", "email": "batman@jl.com", "image": "https://batman-news.com/wp-content/uploads/2022/05/logo_batman-shield.svg"},
     {"id": 2, "name": "Cyborg", "username": "cyborg", "email": "cyborg@jl.com", "image": "https://i0.wp.com/batman-news.com/wp-content/uploads/2021/03/Zack-Snyders-Justice-League-Cyborg-Teaser-01.jpg"},
     {"id": 3, "name": "Flash", "username": "flash", "email": "flash@jl.com", "image": "https://i0.wp.com/batman-news.com/wp-content/uploads/2023/06/The-Flash-2023-Official-Images-01.jpeg"}    
-  ]
+  ],
   "posts": [
     { "id": 1, "title": "Frase de Batman", "body": "No naciste para morir siendo igual que los demás.", "userId": 1 },
     { "id": 2, "title": "Frase de Flash", "body": "La vida nos da un propósito, somos nosotros quienes le damos un propósito a nuestra vida.", "userId": 3 },
